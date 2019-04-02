@@ -1,0 +1,43 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=Code_Playground_Basic
+*Date=06:24:33
+*CreatedBy=Fritzing 0.9.2b.11.19.8d2d5970658f0bed09c661c9ea9a515b5f40f44c
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;;41.8095;-38.3693;0;Bottom;TXT2
+2;;;72.3441;-38.0014;0;Bottom;TXT1
+3;220;THT;59.7682;-14.6033;0;Bottom;220
+4;220;THT;21.6682;-19.6833;0;Bottom;100
+5;220;THT;59.7682;-19.6833;0;Bottom;220
+6;;5 mm [THT];72.4683;-5.13433;0;Bottom;GREEN
+7;;;60.2337;-1.15222;0;Bottom;TXT4
+8;;THT;6.4282;-4.44331;0;Bottom;Buzzer
+9;220;THT;59.7682;-24.7633;0;Bottom;10K
+10;;;40.7183;-17.4705;0;Bottom;WeMos D1 Mini1
+11;;[THT];18.4181;-6.6935;0;Bottom;Button
+12;;5 mm [THT];11.5082;-17.5272;-90;Bottom;RGB Led
+13;;;60.0279;-8.81692;0;Bottom;IMG1
+14;;;60.0341;-11.7759;0;Bottom;TXT3
+15;220;THT;21.6682;-14.6033;0;Bottom;100
+16;;;58.5114;-33.4162;0;Bottom;TXT1
+17;;;8.82299;-10.5934;0;Bottom;TXT1
+18;;5 mm [THT];72.4683;-17.8343;0;Bottom;YELLOW
+19;;5 mm [THT];72.4683;-30.5343;0;Bottom;RED
+20;;THT;6.4282;-12.0633;0;Bottom;J1
+21;;;5.1582;-33.6326;0;Bottom;T & RH Sensor
+22;;;72.007;-39.5915;0;Bottom;TXT1
+23;220;THT;21.6682;-17.1433;0;Bottom;100
+24;;;60.2363;-5.73438;0;Bottom;TXT3
+25;220;THT;59.7682;-17.1433;0;Bottom;220
+26;;;41.5323;-42.0186;0;Bottom;TXT2
+27;;;58.3775;-35.0623;0;Bottom;TXT1
+28;;THT;58.4982;-29.8433;0;Bottom;LDR
